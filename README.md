@@ -15,6 +15,7 @@
 <p>If the installation is successful, this will print the version of Pandas installed.</p>
 
 <h1>3. Additional Resources</h1>
+
 - <a href="https://pandas.pydata.org/docs/">Pandas Documentation</a>
 - <a href="https://pandas.pydata.org/docs/user_guide/index.html">Pandas User Guide</a>
 - <a href="https://www.datasciencecentral.com/wp-content/uploads/2021/10/2808327959.png">Pandas Cheat Sheet</a>
